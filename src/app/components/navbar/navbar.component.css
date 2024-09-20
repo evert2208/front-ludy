@@ -1,0 +1,33 @@
+.nav-link {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: small;
+}
+
+.dropdown-toggle {
+    text-align: right !important;
+    background-color: transparent !important;
+    border-color: white !important;
+    color: white !important;
+}
+
+.container-fluid {
+    text-align: center !important;
+    padding-left: 80px !important;
+}
+
+.navbar {
+    background-color: #aaafbd !important;
+}
+
+.nav-link {
+    color: white !important;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: start;
+    letter-spacing: normal;
+}
+
+.nav-link:hover {
+    color: #0000ff !important;
+}
